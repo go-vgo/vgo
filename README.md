@@ -8,7 +8,7 @@ vgo
 - Simple to Generics and Regexp
 - Technical computing like Julia
 
-- Simplicity: the language can be learned
+- Simplicity: the language can be learned in less time
 - Safety: no null, no globals, no undefined behavior, immutability by default
 - Fast compilation and Easy to develop
 - Easy cross compilation
